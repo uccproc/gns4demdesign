@@ -1,0 +1,1 @@
+https://storage.googleapis.com/repo_for_gns/17_granular_2D_50_friction_restitution_DoE_2nd/valid.tfrecord
