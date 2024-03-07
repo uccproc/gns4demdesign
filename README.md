@@ -32,6 +32,14 @@ Sample dataset provided: 50 DEM simulation for granular collapse, with different
 - Step 2: 
 
     python inverse_design3.py
+    
+
+**Visualize the optimization process:**
+
+- Step 1: Record the output from the optimization process, extract different pair of friction/restitution values from different steps, put them into "data_points" in *plot_3d_surface_optimization.py*
+-  Step 2: 
+   
+    python plot_3d_surface_optimization.py
 
 ![optimization](images/screenshot.png)
 
