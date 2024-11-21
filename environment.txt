@@ -1,0 +1,25 @@
+# major packages used in the environment
+#
+# Name                    Version                   Build  Channel
+absl-py                   0.15.0             pyhd3eb1b0_0  
+cudatoolkit               11.1.1               h6406543_8    conda-forge
+dm-tree                   0.1.6                    pypi_0    pypi
+h5py                      3.6.0            py37ha0f2276_0  
+hdf5                      1.10.6               hb1b8bf9_0  
+pillow                    6.2.1            py37h6b7be26_0    conda-forge
+pyg                       2.0.3           py37_torch_1.9.0_cu111    pyg
+python                    3.7.11               h12debd9_0  
+pytorch                   1.9.0           py3.7_cuda11.1_cudnn8.0.5_0    pytorch
+pytorch-cluster           1.5.9           py37_torch_1.9.0_cu111    pyg
+pytorch-scatter           2.0.9           py37_torch_1.9.0_cu111    pyg
+pytorch-sparse            0.6.12          py37_torch_1.9.0_cu111    pyg
+pytorch-spline-conv       1.2.1           py37_torch_1.9.0_cu111    pyg
+scikit-learn              1.0.2            py37h51133e4_1  
+scipy                     1.7.3            py37hc147768_0  
+tensorboard               1.15.0             pyhb230dea_0  
+tensorflow                1.15.0          mkl_py37h28c19af_0  
+tensorflow-base           1.15.0          mkl_py37he1670d9_0  
+tensorflow-datasets       3.2.1                    pypi_0    pypi
+tensorflow-estimator      1.15.1             pyh2649769_0  
+tensorflow-metadata       1.6.0                    pypi_0    pypi
+tfrecord                  1.14.1                   pypi_0    pypi
